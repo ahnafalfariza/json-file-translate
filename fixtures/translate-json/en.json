@@ -1,28 +1,52 @@
 {
-  "waterAnimal": "Angel Fish",
-  "landAnimal": "Giraffe",
-  "colors": [
-    {
-      "name": "red",
-      "shading": "dark"
-    },
-    {
-      "name": "green",
-      "shading": "light"
-    },
-    {
-      "name": "blue",
-      "shading": "deep"
-    }
-  ],
-  "cost": {
-    "dollars": {
-      "primary": "Fifty",
-      "tax": "Ten"
-    },
-    "euros": {
-      "primary": "Forty Two",
-      "tax": "Eight"
-    }
-  }
+	"hero": {
+		"title": "Best Marketplace for",
+		"subtitle": "Digital Collectibles NFTs",
+		"description": "<text>Welcome to all-in-one social platform to buy,\n sell and create NFTs on </text><NearLink>Near Protocol</NearLink>",
+		"primary_button": "Explore",
+		"secondary_button": "Learn More"
+	},
+	"featured_collection": "Featured Collection",
+	"activity_you_follow": "Activity You Follow",
+	"top_collection": {
+		"title": "Top Collection",
+		"last_7_d": "Last 7 Days",
+		"more": "View more"
+	},
+	"mint_calendar": "Mint Calendar",
+	"whats_new": "What's New",
+	"highest_sale": {
+		"title": "Highest Sale",
+		"last_24_h": "Last 24 Hours"
+	},
+	"apex_collectior": {
+		"title": "Apex Collector",
+		"more": "View more"
+	},
+	"guide": {
+		"1": {
+			"title": "New in Paras?",
+			"description": "Paras is all-in-one social NFT marketplace for creators & collectors that use <DescLink>Near Wallet</DescLink>",
+			"button": "About us"
+		},
+		"2": {
+			"title": "Have Artwork?",
+			"description": "Share your artworks or project as NFTs then get profit from sales and future royalty fee",
+			"button": "Start now"
+		},
+		"3": {
+			"title": "Want to get profit?",
+			"description": "Hunt the rarest and most wanted collection of NFTs and become the <DescLink>Apex Collector</DescLink>",
+			"button": "Connect Near Wallet"
+		},
+		"4": {
+			"title": "Like what you see?",
+			"description": "Support the artist you like by share their page in Paras. The more view will make the artist gain reputation",
+			"button": "Explore Paras"
+		}
+	},
+	"live_auction": {
+		"title": "Live Auction",
+		"more": "View more"
+	}
 }
